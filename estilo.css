@@ -1,0 +1,54 @@
+.estilo{
+    color: #FFFF00;
+}
+
+p{
+  position: absolute;
+  margin: auto;
+  right: 50px;
+}
+
+*{
+    box-sizing: border-box;
+    background-color: grey;
+}
+
+#nota1, #nota2, #nota3{
+    background-color: goldenrod;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: message-box;
+    font-size: large;
+    font: bold;
+}
+
+.nome_colegio{
+    font-style: normal;
+    font-family: Arial, Helvetica, sans-serif;
+    font: bolder;
+}
+
+.resultado_pass{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: green;
+}
+
+.resultado_rep{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+}
+#elemento_botao{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: bold;
+
+}
+
+.nota.css{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font: bold;
+}
+
+#botao{
+    font: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: white;
+}
